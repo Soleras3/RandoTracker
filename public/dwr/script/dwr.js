@@ -809,83 +809,390 @@ var playerInfo = [
 		twitchName: "Angel_FM",
 		pronoun: ""
 	},
+	{
+		displayName: "apexcorvid",
+		twitchName: "apexcorvid",
+		pronoun: ""
+	},
+	{
+		displayName: "ArchfieldMonk",
+		twitchName: "ArchfieldMonk",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "AsmadiGames",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "betastrep",
+		twitchName: "betastrep",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "Big_Slammu",
+		twitchName: "big__slammu",
+		pronoun: ""
+	},
+	{
+		displayName: "Bobski",
+		twitchName: "Bobski021",
+		pronoun: "He/Him/His"
+	},
+	{
+		displayName: "Braxous_Muse",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "brianwilliams42",
+		twitchName: "brianwilliams42",
+		pronoun: "He/Him"
+	},
+	{
+		displayName: "CaptainGreen7",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "cdinprov",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Centroid41",
+		twitchName: "Centroid41",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "Couch_23",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "CrimsonAvix",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "CubegodHS",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Cyberdark86",
+		twitchName: "Cyberdark86",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "DiabeetusThe2nd",
+		twitchName: "DiabeetusThe2nd",
+		pronoun: ""
+	},
+	{
+		displayName: "dk9146",
+		twitchName: "dk9146",
+		pronoun: ""
+	},
+	{
+		displayName: "Edge",
+		twitchName: "mk_punisheredge",
+		pronoun: "He/him"
+	},
+	{
+		displayName: "Edgestream",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Elmore",
+		twitchName: "ElmoreStJames",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "fcoughlin",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "FearonBurgundy",
+		twitchName: "FearonBurgundy",
+		pronoun: "He/him/they/them"
+	},
+	{
+		displayName: "fryteeth",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "gameboyf9",
+		twitchName: "gameboyf9",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "garionoldwolf",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Guelph35",
+		twitchName: "Guelph35",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "HighRofellos",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Highspirits",
+		twitchName: "Highspirits",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "IBKarma",
+		twitchName: "IB_Karma",
+		pronoun: "He/him"
+	},
+	{
+		displayName: "Idonthaveananvil",
+		twitchName: "Idonthaveananvil",
+		pronoun: ""
+	},
+	{
+		displayName: "Jackimus",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "JanusZeal",
+		twitchName: "JanusZeal6",
+		pronoun: "they/them"
+	},
+	{
+		displayName: "jjschmidt77",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "jkoper",
+		twitchName: "jkoper",
+		pronoun: "he"
+	},
+	{
+		displayName: "Jman",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "kaiten619",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "KamionRenokai",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Kigalas",
+		twitchName: "Kigalas",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "Kitsanth",
+		twitchName: "Kitsanth",
+		pronoun: ""
+	},
+	{
+		displayName: "LordoftheSynth",
+		twitchName: "LordoftheSynth",
+		pronoun: ""
+	},
+	{
+		displayName: "LoZCardsfan",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Marashu",
+		twitchName: "Marashu_Online",
+		pronoun: "He/Him/His"
+	},
+	{
+		displayName: "Math_Girl718",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "mcgrew",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "MeleeWizard",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "MisterHomes",
+		twitchName: "MisterHomes",
+		pronoun: "He/Him"
+	},
+	{
+		displayName: "MonsieurSlime",
+		twitchName: "MonsieurSlime",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "NESCardinality",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Niamek",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Nimanva",
+		twitchName: "Nimanva",
+		pronoun: ""
+	},
+	{
+		displayName: "nycguy (juyzal)",
+		twitchName: "Juyzal",
+		pronoun: ""
+	},
+	{
+		displayName: "onefineday",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "OPTLawyer",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Pelador",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "ryguy3745",
+		twitchName: "ryguy3745",
+		pronoun: ""
+	},
+	{
+		displayName: "SassageLink",
+		twitchName: "SassageLink83",
+		pronoun: "He/him"
+	},
+	{
+		displayName: "shatty",
+		twitchName: "shatty",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "ShneekeyTheLost",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Shoobinator",
+		twitchName: "Shoobinator",
+		pronoun: "him"
+	},
+	{
+		displayName: "sigmafan",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Smashy",
+		twitchName: "Smashy",
+		pronoun: "he"
+	},
+	{
+		displayName: "Sparkover",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Stags28",
+		twitchName: "Stags28",
+		pronoun: "he/him/his"
+	},
+	{
+		displayName: "The_Greenleaf_Effect",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "theamusedminiature",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "thehangrycanuck",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "theseawolf1",
+		twitchName: "theseawolf1",
+		pronoun: "He/Him"
+	},
+	{
+		displayName: "Thilotilo",
+		twitchName: "Thilotilo",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "TristalMTG",
+		twitchName: "TristalMTG",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "up2ng",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Ursinedasyure",
+		twitchName: "Ursinedasyure",
+		pronoun: "she/her"
+	},
+	{
+		displayName: "VaeluV",
+		twitchName: "VaeluV",
+		pronoun: "He/Him/His"
+	},
+	{
+		displayName: "Vriaeliss",
+		twitchName: "",
+		pronoun: ""
+	},
+	{
+		displayName: "Xarnax42",
+		twitchName: "Xarnax42",
+		pronoun: "he/him"
+	},
+	{
+		displayName: "YakkoWakko20",
+		twitchName: "YakkoWakko20",
+		pronoun: "He/Him"
+	},
+	{
+		displayName: "Z",
+		twitchName: "Zman050778",
+		pronoun: "He/him"
+	},
 ]
 
-/* <datalist id="name_options">
-    <option twitch="apexcorvid" pronoun="">apexcorvid</option>
-    <option twitch="ArchfieldMonk" pronoun="he/him">ArchfieldMonk</option>
-    <option twitch="" pronoun="">AsmadiGames</option>
-    <option twitch="betastrep" pronoun="he/him">betastrep</option>
-    <option twitch="big__slammu" pronoun="">Big_Slammu</option>
-    <option twitch="Bobski021" pronoun="He/Him/His">Bobski</option>
-    <option twitch="" pronoun="">Braxous_Muse</option>
-    <option twitch="brianwilliams42" pronoun="He/Him">brianwilliams42</option>
-    <option twitch="" pronoun="">CaptainGreen7</option>
-    <option twitch="" pronoun="">cdinprov</option>
-    <option twitch="Centroid41" pronoun="he/him">Centroid41</option>
-    <option twitch="" pronoun="">Couch_23</option>
-    <option twitch="" pronoun="">CrimsonAvix</option>
-    <option twitch="" pronoun="">CubegodHS</option>
-    <option twitch="Cyberdark86" pronoun="he/him">Cyberdark86</option>
-    <option twitch="DiabeetusThe2nd" pronoun="">DiabeetusThe2nd</option>
-    <option twitch="dk9146" pronoun="">dk9146</option>
-    <option twitch="mk_punisheredge" pronoun="He/him">Edge</option>
-    <option twitch="" pronoun="">Edgestream</option>
-    <option twitch="ElmoreStJames" pronoun="he/him">Elmore</option>
-    <option twitch="" pronoun="">fcoughlin</option>
-    <option twitch="FearonBurgundy" pronoun="He/him/they/them">FearonBurgundy</option>
-    <option twitch="" pronoun="">fryteeth</option>
-    <option twitch="gameboyf9" pronoun="he/him">gameboyf9</option>
-    <option twitch="" pronoun="">garionoldwolf</option>
-    <option twitch="Guelph35" pronoun="he/him">Guelph35</option>
-    <option twitch="" pronoun="">HighRofellos</option>
-    <option twitch="Highspirits" pronoun="he/him">Highspirits</option>
-    <option twitch="IB_Karma" pronoun="He/him">IBKarma</option>
-    <option twitch="Idonthaveananvil" pronoun="">Idonthaveananvil</option>
-    <option twitch="" pronoun="">Jackimus</option>
-    <option twitch="JanusZeal6" pronoun="they/them">JanusZeal</option>
-    <option twitch="" pronoun="">jjschmidt77</option>	
-    <option twitch="jkoper" pronoun="he">jkoper</option>
-    <option twitch="" pronoun="">Jman</option>
-    <option twitch="" pronoun="">kaiten619</option>
-    <option twitch="" pronoun="">KamionRenokai</option>
-    <option twitch="Kigalas" pronoun="he/him">Kigalas</option>
-    <option twitch="Kitsanth" pronoun="">Kitsanth</option>
-    <option twitch="LordoftheSynth" pronoun="">LordoftheSynth</option>
-    <option twitch="" pronoun="">LoZCardsfan</option>
-    <option twitch="Marashu_Online" pronoun="He/Him/His">Marashu</option>
-    <option twitch="" pronoun="">Math_Girl718</option>
-    <option twitch="" pronoun="">mcgrew</option>
-    <option twitch="" pronoun="">MeleeWizard</option>
-    <option twitch="MisterHomes" pronouns="He/Him">MisterHomes</option>
-    <option twitch="MonsieurSlime" pronoun="he/him">MonsieurSlime</option>
-    <option twitch="" pronoun="">NESCardinality</option>
-    <option twitch="" pronoun="">Niamek</option>
-    <option twitch="Nimanva" pronoun="">Nimanva</option>
-    <option twitch="Juyzal" pronoun="">nycguy (juyzal)</option>
-    <option twitch="" pronoun="">onefineday</option>
-    <option twitch="" pronoun="">OPTLawyer</option>
-    <option twitch="" pronoun="">Pelador</option>
-    <option twitch="ryguy3745">ryguy3745</option>
-    <option twitch="SassageLink83" pronoun="He/him">SassageLink</option>
-    <option twitch="shatty" pronoun="he/him">shatty</option>
-    <option twitch="" pronoun="">ShneekeyTheLost</option>
-    <option twitch="Shoobinator" pronoun="him">Shoobinator</option>
-    <option twitch="" pronoun="">sigmafan</option>
-    <option twitch="Smashy" pronoun="he">Smashy</option>
-    <option twitch="" pronoun="">Sparkover</option>
-    <option twitch="Stags28" pronoun="he/him/his">Stags28</option>
-    <option twitch="" pronoun="">The_Greenleaf_Effect</option>
-    <option twitch="" pronoun="">theamusedminiature</option>
-    <option twitch="" pronoun="">thehangrycanuck</option>
-    <option twitch="theseawolf1" pronoun="He/Him">theseawolf1</option>
-    <option twitch="Thilotilo" pronoun="he/him">Thilotilo</option>
-    <option twitch="TristalMTG" pronoun="he/him">TristalMTG</option>
-    <option twitch="" pronoun="">up2ng</option>
-    <option twitch="Ursinedasyure" pronoun="she/her">Ursinedasyure</option>
-    <option twitch="VaeluV" pronoun="He/Him/His">VaeluV</option>
-    <option twitch="" pronoun="">Vriaeliss</option>
-    <option twitch="Xarnax42" pronoun="he/him">Xarnax42</option>
-    <option twitch="YakkoWakko20" pronoun="He/Him">YakkoWakko20</option>
-    <option twitch="Zman050778" pronoun="He/him">Z</option>
-</datalist> */
+const datalist = document.getElementById("name_options");
+  playerInfo.forEach(
+	function(element) {
+	  datalist.innerHTML += `<option>${element.displayName}</option>`;
+  });
