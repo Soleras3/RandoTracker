@@ -1189,7 +1189,7 @@ var playerInfo = [
 		twitchName: "Zman050778",
 		pronoun: "He/him"
 	},
-]
+];
 
 const datalist = document.getElementById("name_options");
   playerInfo.forEach(
