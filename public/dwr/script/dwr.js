@@ -1194,5 +1194,9 @@ var playerInfo = [
 const datalist = document.getElementById("name_options");
   playerInfo.forEach(
 	function(element) {
-	  datalist.innerHTML += `<option>${element.displayName}</option>`;
+	  datalist.innerHTML += `<option value="${element.displayName}"/>`;
   });
+
+const nameOptionOne = document.querySelector('[player="1"][property="player-name"] input');
+
+console.log(nameOptionOne.options[nameOptionOne.selectedIndex]);
